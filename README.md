@@ -4,7 +4,7 @@ Welcome to `#blueteam` on hackint! We are a little, cozy community focussing on 
 
 ## Rules/Code of conduct
 
-See [Code of conduct.md](Code of Conduct.md)
+See [Code of conduct.md](Code%20of%20Conduct.md)
 
 ## Resources
 
