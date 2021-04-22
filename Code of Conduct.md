@@ -27,6 +27,7 @@ We are not a super strict environment suited for kids. Light, occasional swearin
 A bit of offtopic here and there is completely alright, but avoid sensitive topics which include but are not limited to:
 
 - Politics
+  - We are aware of the fact that security has some topics with politics in common. The point of avoiding this topic is to not start potential flamewars.
 - Religion
 - Vulgar content
 
